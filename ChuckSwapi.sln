@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChuckSwapi", "ChuckSwapi.csproj", "{58467282-AA0D-4CFF-856C-369F96830F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58467282-AA0D-4CFF-856C-369F96830F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58467282-AA0D-4CFF-856C-369F96830F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58467282-AA0D-4CFF-856C-369F96830F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58467282-AA0D-4CFF-856C-369F96830F25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C58ACA8-8CE3-45E5-BD75-CF166C258723}
+	EndGlobalSection
+EndGlobal
